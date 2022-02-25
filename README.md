@@ -1,24 +1,19 @@
-# README
+# rails-template
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails API-mode template repository
 
-Things you may want to cover:
+## installed gems
 
-* Ruby version
+## usage
 
-* System dependencies
+### install gems
 
-* Configuration
+```sh
+bundle install
+```
 
-* Database creation
+### run web-app
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```sh
+rails s
+```
