@@ -10,6 +10,7 @@ Rails API-mode template repository
 - devise
 - devise-token-auth
 - pry-rails
+- rack-cors
 
 ## usage
 
